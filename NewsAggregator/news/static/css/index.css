@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("https://wallpapercave.com/wp/WKrdJdS.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+  
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:100px;
+    font-family: monospace;
+    text-align: center;
+   color:brown;
+  }.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}

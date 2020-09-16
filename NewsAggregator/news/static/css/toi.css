@@ -1,0 +1,10 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  .container{
+      text-align: center;
+      text-decoration-style: solid;
+      font-family: cursive;
+      color: maroon;
+  }
